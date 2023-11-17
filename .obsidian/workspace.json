@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7953898a4fde7c36",
+        "id": "3bdc05f36c1d3621",
         "type": "tabs",
         "children": [
           {
-            "id": "69a3b7a3e710aaca",
+            "id": "27aeeefe8413c8b3",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -138,7 +138,7 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "69a3b7a3e710aaca",
+  "active": "27aeeefe8413c8b3",
   "lastOpenFiles": [
     "Th. 3.2.md",
     "Th. 2.7.md",
