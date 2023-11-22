@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "3bdc05f36c1d3621",
+        "id": "0d91b7c4dc195a94",
         "type": "tabs",
         "children": [
           {
-            "id": "27aeeefe8413c8b3",
+            "id": "6870c4be6d888757",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "a081bed6d511bb2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Th. 3.3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "4f06913eca10ed3f",
@@ -94,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Th. 3.3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Th. 3.3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Th. 3.3.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -155,17 +138,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a081bed6d511bb2d",
+  "active": "6870c4be6d888757",
   "lastOpenFiles": [
+    "Th. 2.3.md",
+    "Def. 2.12.md",
+    "Pasted image 20231122183628.png",
+    "Pasted image 20231122183628 1.png",
+    "Def. 2.5.md",
+    "Def. 2.16.md",
+    "Def. 2.17.md",
+    "Def. 3.1.md",
+    "Def. 2.15.md",
+    "Pasted image 20231122182814.png",
+    "Pasted image 20231122182655.png",
     "Th. 3.3.md",
     "Th. 3.2.md",
     "Th. 2.7.md",
     "Th. 2.6.md",
     "Th. 2.9.md",
-    "Def. 2.17.md",
-    "README.md",
-    "Def. 2.16.md",
-    "Def. 2.5.md",
-    "Def. 2.15.md"
+    "README.md"
   ]
 }
