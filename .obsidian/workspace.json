@@ -14,8 +14,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "a081bed6d511bb2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Th. 3.3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Th. 3.3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Th. 3.3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Th. 3.3.md"
+              }
             }
           }
         ]
@@ -138,8 +155,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "27aeeefe8413c8b3",
+  "active": "a081bed6d511bb2d",
   "lastOpenFiles": [
+    "Th. 3.3.md",
     "Th. 3.2.md",
     "Th. 2.7.md",
     "Th. 2.6.md",
