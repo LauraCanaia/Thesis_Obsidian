@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "0d91b7c4dc195a94",
+        "id": "ac0e1a2ea4acc48d",
         "type": "tabs",
         "children": [
           {
-            "id": "6870c4be6d888757",
+            "id": "5159a372956ec687",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -138,9 +138,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6870c4be6d888757",
+  "active": "5159a372956ec687",
   "lastOpenFiles": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+    "Untitled 1",
+    "Untitled",
+>>>>>>> Stashed changes
     "Th. 2.3.md",
     "Def. 2.12.md",
     "Pasted image 20231122183628.png",
