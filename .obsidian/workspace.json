@@ -140,6 +140,7 @@
   },
   "active": "6870c4be6d888757",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "Th. 2.3.md",
     "Def. 2.12.md",
     "Pasted image 20231122183628.png",
@@ -154,8 +155,20 @@
     "Th. 3.3.md",
     "Th. 3.2.md",
     "Th. 2.7.md",
+=======
+>>>>>>> Stashed changes
     "Th. 2.6.md",
+    "Th. 3.2.md",
+    "Def. 2.16.md",
     "Th. 2.9.md",
+<<<<<<< Updated upstream
     "README.md"
+=======
+    "Th. 2.7.md",
+    "Def. 2.17.md",
+    "README.md",
+    "Def. 2.5.md",
+    "Def. 2.15.md"
+>>>>>>> Stashed changes
   ]
 }
