@@ -1,35 +1,48 @@
 {
   "main": {
-    "id": "a386216c2781fad4",
+    "id": "414590ef45b63a58",
     "type": "split",
     "children": [
       {
-        "id": "ac0e1a2ea4acc48d",
+        "id": "87f958914e0b3022",
         "type": "tabs",
         "children": [
           {
-            "id": "5159a372956ec687",
+            "id": "7c162c3947e77795",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "markdown",
+              "state": {
+                "file": "Def. 4.2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "27934ffdea6b0074",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "66b06d286761c7bc",
+    "id": "dd890510d2c69291",
     "type": "split",
     "children": [
       {
-        "id": "ad66fb9918fad551",
+        "id": "31521108cc0f4473",
         "type": "tabs",
         "children": [
           {
-            "id": "45bdfa32cbe5e108",
+            "id": "f2d5d73ec13a3b5d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +52,7 @@
             }
           },
           {
-            "id": "9e946b7c08df7693",
+            "id": "98adad24d13df678",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +67,7 @@
             }
           },
           {
-            "id": "f07a12b701c90d10",
+            "id": "861c2f865cfd0f0a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -65,18 +78,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "4f06913eca10ed3f",
+    "id": "9e889fda6a81db0f",
     "type": "split",
     "children": [
       {
-        "id": "74658d17e8b603cd",
+        "id": "364467a7242ababb",
         "type": "tabs",
         "children": [
           {
-            "id": "3afeec8a6eddb31c",
+            "id": "b6a39222ea41d265",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -92,7 +105,7 @@
             }
           },
           {
-            "id": "8fea1ea99cc0ade5",
+            "id": "e7cb687e89df757d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -103,7 +116,7 @@
             }
           },
           {
-            "id": "bb035593a717e322",
+            "id": "99aa9bf8a9b844c7",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,7 +127,7 @@
             }
           },
           {
-            "id": "4d47610785da031d",
+            "id": "78fc8fc75d5f3b63",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -138,42 +151,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5159a372956ec687",
+  "active": "27934ffdea6b0074",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
-    "Untitled 1",
-    "Untitled",
->>>>>>> Stashed changes
-    "Th. 2.3.md",
-    "Def. 2.12.md",
-    "Pasted image 20231122183628.png",
-    "Pasted image 20231122183628 1.png",
-    "Def. 2.5.md",
-    "Def. 2.16.md",
-    "Def. 2.17.md",
+    "Def. 4.2.md",
+    "Def. 4.1.md",
+    "Th. 2.7.md",
+    "Pasted image 20231129164929.png",
     "Def. 3.1.md",
-    "Def. 2.15.md",
-    "Pasted image 20231122182814.png",
-    "Pasted image 20231122182655.png",
-    "Th. 3.3.md",
-    "Th. 3.2.md",
-    "Th. 2.7.md",
-=======
->>>>>>> Stashed changes
-    "Th. 2.6.md",
-    "Th. 3.2.md",
-    "Def. 2.16.md",
-    "Th. 2.9.md",
-<<<<<<< Updated upstream
-    "README.md"
-=======
-    "Th. 2.7.md",
-    "Def. 2.17.md",
-    "README.md",
-    "Def. 2.5.md",
-    "Def. 2.15.md"
->>>>>>> Stashed changes
+    "Def. 2.17.md"
   ]
 }
