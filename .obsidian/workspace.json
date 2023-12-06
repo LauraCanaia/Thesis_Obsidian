@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Def. 2.11.md",
+                "file": "Def. 4.4.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "9e889fda6a81db0f",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Def. 2.11.md",
+                "file": "Def. 4.4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Def. 2.11.md",
+                "file": "Def. 4.4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Def. 2.11.md"
+                "file": "Def. 4.4.md"
               }
             }
           }
@@ -157,22 +157,23 @@
   },
   "active": "0105a0af096ab885",
   "lastOpenFiles": [
-    "Th. 2.4.md",
-    "Def. 2.11.md",
     "Def. 4.3.md",
+    "Def. 4.2.md",
+    "Def. 4.1.md",
+    "Def. 2.17.md",
+    "Def. 3.1.md",
+    "Def. 2.16.md",
+    "Def. 2.15.md",
+    "Def. 2.12.md",
+    "Def. 2.11.md",
+    "Def. 4.4.md",
+    "Th. 2.4.md",
     "Th. 4.1.md",
     "Th. 3.2.md",
     "Th. 2.9.md",
     "Th. 2.7.md",
     "Th. 2.6.md",
     "Th. 2.3.md",
-    "Def. 4.2.md",
-    "Def. 4.1.md",
-    "Def. 3.1.md",
-    "Def. 2.17.md",
-    "Def. 2.16.md",
-    "Def. 2.15.md",
-    "Def. 2.12.md",
     "Def. 2.5.md",
     "Pasted image 20231129164929.png"
   ]
