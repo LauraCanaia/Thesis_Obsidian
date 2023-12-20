@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4ccec893699457fe",
+        "id": "b92058b59dc7f00c",
         "type": "tabs",
         "children": [
           {
-            "id": "0a5b247fc8563220",
+            "id": "e0ae9987be93e014",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Def. 2.12.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -65,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Def. 2.12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Def. 2.12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Def. 2.12.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,8 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0a5b247fc8563220",
+  "active": "e0ae9987be93e014",
   "lastOpenFiles": [
+    "Th. 5.2.md",
+    "Th. 5.1.md",
     "Def. 2.12.md",
     "Def. 5.1.md",
     "Def. 2.11.md",
