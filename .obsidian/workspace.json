@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "87f958914e0b3022",
+        "id": "4ccec893699457fe",
         "type": "tabs",
         "children": [
           {
-            "id": "27934ffdea6b0074",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "0105a0af096ab885",
+            "id": "0a5b247fc8563220",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Def. 4.4.md",
+                "file": "Def. 2.12.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Galoi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Def. 4.4.md",
+                "file": "Def. 2.12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Def. 4.4.md",
+                "file": "Def. 2.12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Def. 4.4.md"
+                "file": "Def. 2.12.md"
               }
             }
           }
@@ -155,8 +147,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0105a0af096ab885",
+  "active": "0a5b247fc8563220",
   "lastOpenFiles": [
+    "Def. 2.12.md",
+    "Def. 5.1.md",
+    "Def. 2.11.md",
+    "Def. 4.4.md",
     "Def. 4.3.md",
     "Def. 4.2.md",
     "Def. 4.1.md",
@@ -164,9 +160,6 @@
     "Def. 3.1.md",
     "Def. 2.16.md",
     "Def. 2.15.md",
-    "Def. 2.12.md",
-    "Def. 2.11.md",
-    "Def. 4.4.md",
     "Th. 2.4.md",
     "Th. 4.1.md",
     "Th. 3.2.md",
