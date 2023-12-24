@@ -11,11 +11,28 @@
             "id": "e0ae9987be93e014",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "tutorial/Def. 2.12.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f826318c88ac7e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tutorial/Def. 6.1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "tutorial/Def. 2.12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "tutorial/Def. 2.12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "tutorial/Def. 2.12.md"
+              }
             }
           }
         ]
@@ -138,13 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e0ae9987be93e014",
+  "active": "f2d5d73ec13a3b5d",
   "lastOpenFiles": [
+    "tutorial/Def. 2.12.md",
+    "tutorial/Def. 6.1.md",
     "tutorial/Def. 2.5.md",
     "tutorial",
     "tutorial/Th. 5.2.md",
     "tutorial/Th. 5.1.md",
-    "tutorial/Def. 2.12.md",
     "tutorial/Def. 5.1.md",
     "tutorial/Def. 2.11.md",
     "tutorial/Def. 4.4.md",
