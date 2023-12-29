@@ -1,0 +1,1 @@
+A transition system (or, program) P = $<\mathbb(S)', \rightarrow>$ is defined as a pair of the set of initial states and the [[Transition relation]] which is generic to represent programs written in various languages. 
