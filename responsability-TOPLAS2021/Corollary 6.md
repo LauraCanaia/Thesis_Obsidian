@@ -1,0 +1,1 @@
+Given the semantics $[\![P]\!]^{Max}$ and a lattice $\mathcal L ^{Max}$ of system behaviors, for any observer with cognizance $\mathbb C$, if the corresponding observation function maps a trace $\sigma$ to a maximal property trace $\mathcal T \in \mathcal L ^{Max}$, then $\sigma$ guarantees the satisfaction of property $\mathcal T$.
