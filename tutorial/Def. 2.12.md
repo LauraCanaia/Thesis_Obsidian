@@ -1,3 +1,4 @@
+[[Tutorial on Abstract Interpretation.pdf]]
 *Galois connection*
 Given two posets $(C, \leq)$ and $(A, \sqsubseteq)$, the pair $(\alpha : \ C \rightarrow A, \gamma : \ A \rightarrow C)$ is a Galois connection if :
 $\forall a \in A, c \in C, \ c \leq \gamma(a) \iff \alpha(c) \sqsubseteq a$ 

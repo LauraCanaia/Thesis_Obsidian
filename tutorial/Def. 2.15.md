@@ -1,3 +1,4 @@
+[[Tutorial on Abstract Interpretation.pdf]]
 *Sound and exact operator abstraction*
 Given a concretization $\gamma$ from an abstract domain (A, $\sqsubseteq$) to a concrete domain (C, $\le$) , a concrete operator $f : C \rightarrow C$,  and an abstract operator $g : A \rightarrow A$ :
 1. $g$ is a sound abstraction of $f \\ if\forall a \in A: f(\gamma(a)) \le \gamma(g(a))$;

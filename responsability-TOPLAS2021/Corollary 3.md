@@ -1,1 +1,2 @@
+[[responsibility-TOPLAS2021.pdf]]
 Given the semantics $[\![P]\!]^{Max}$ and the lattice $\mathcal L ^{Max}$ of a system behaviors, the inquiry function $\mathbb I$ maps a trace $\sigma$ to a maximal trace property $\mathcal T \in \mathcal L ^{Max}$, then $\sigma$ guarantees the satisfaction of $\mathcal T$.

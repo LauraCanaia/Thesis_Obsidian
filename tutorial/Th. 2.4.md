@@ -1,3 +1,4 @@
+[[Tutorial on Abstract Interpretation.pdf]]
 *Galois connection properties*
 Given a Galois connection we have :
 1. $\gamma \circ \alpha \circ \gamma = \gamma$ and $\alpha \circ \gamma \circ \alpha = \alpha$;

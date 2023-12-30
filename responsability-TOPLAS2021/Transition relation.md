@@ -1,2 +1,3 @@
+[[responsibility-TOPLAS2021.pdf]]
 A transition relation can be defined as $\rightarrow \ \epsilon \ \wp(\mathbb(S) \times \mathbb(A) \times \mathbb(S))$ such that $<s, \ a, \ s> \in \rightarrow (or, s\xrightarrow{\text a} s')$  denotes an atomic step from a state s to another state s' after executing the action a.    
 Note that, it is assumed that there is no outgoing transition from final states or the error state.

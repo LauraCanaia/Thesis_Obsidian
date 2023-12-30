@@ -1,1 +1,2 @@
+[[responsibility-TOPLAS2021.pdf]]
 Given the semantics $[\![P]\!]^{Max}$, the lattice $\mathcal L ^{Max}$ of system behaviors, and the cognizance function $\mathbb C$, the observation function $O ([\![P]\!]^{Max}, \mathcal L ^{Max}, \mathbb C, \sigma s)$ is decreasing on the observed trace $\sigma$ : the greater (longer) $\sigma$ is, the strongest the property it can observe.

@@ -1,3 +1,4 @@
+[[responsibility-TOPLAS2021.pdf]]
 An action $a_R$ is responsible for the behavior B of interest in a given execution $\iff$ $a_R$ is free to make choices, and such a choice is the first one that guarantees the occurrence of B in the execution.   
 
 *Definition that comes from the forest fire's example*

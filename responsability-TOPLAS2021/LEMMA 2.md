@@ -1,1 +1,2 @@
+[[responsibility-TOPLAS2021.pdf]]
 Given the semantics $[\![P]\!]^{Max}$ and a lattice $\mathcal L ^{Max}$ of system behaviors, the inquiry function $\mathbb I ([\![P]\!]^{Max}, \mathcal L ^{Max})$ is decreasing on the inquired trace $\sigma$ : the greater (longer) $\sigma$ is, the stronger property it can guarantee.

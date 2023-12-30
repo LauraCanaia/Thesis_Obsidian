@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5a10858c14ae1f40",
+        "id": "40ad26d1ca896799",
         "type": "tabs",
         "children": [
           {
-            "id": "a6757a53639917e7",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "8cbb1d63fd037829",
+            "id": "61707bdd2360e3e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Survey-On-Temporal-Logic/First-Order Temporal Logic (FOTL).md",
+                "file": "responsability-TOPLAS2021/Transition system.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Survey-On-Temporal-Logic/First-Order Temporal Logic (FOTL).md",
+                "file": "responsability-TOPLAS2021/Transition system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Survey-On-Temporal-Logic/First-Order Temporal Logic (FOTL).md",
+                "file": "responsability-TOPLAS2021/Transition system.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Survey-On-Temporal-Logic/First-Order Temporal Logic (FOTL).md"
+                "file": "responsability-TOPLAS2021/Transition system.md"
               }
             }
           }
@@ -155,41 +146,42 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "f2d5d73ec13a3b5d",
+  "active": "61707bdd2360e3e7",
   "lastOpenFiles": [
+    "responsability-TOPLAS2021/Transition relation.md",
+    "responsability-TOPLAS2021/Theorem 1.md",
+    "responsability-TOPLAS2021/Responsability.md",
+    "responsability-TOPLAS2021/Property learning process.md",
+    "responsability-TOPLAS2021/Pasted image 20231229145047.png",
+    "responsability-TOPLAS2021/LEMMA 3.md",
+    "responsability-TOPLAS2021/LEMMA 2.md",
+    "responsability-TOPLAS2021/LEMMA 1.md",
+    "responsability-TOPLAS2021/Environment transfer function.md",
+    "responsability-TOPLAS2021/Corollary 7.md",
+    "responsability-TOPLAS2021/Corollary 6.md",
+    "responsability-TOPLAS2021/Corollary 5.md",
+    "responsability-TOPLAS2021/Corollary 4.md",
+    "responsability-TOPLAS2021/Corollary 3.md",
+    "responsability-TOPLAS2021/Corollary 2.md",
+    "responsability-TOPLAS2021/Corollary 1.md",
+    "tutorial/Th. 5.2.md",
+    "tutorial/Th. 5.1.md",
+    "tutorial/Th. 4.1.md",
+    "tutorial/Th. 3.3.md",
+    "tutorial/Th. 3.2.md",
+    "tutorial/Th. 2.9.md",
+    "tutorial/Th. 2.7.md",
+    "tutorial/Th. 2.6.md",
+    "tutorial/Th. 2.4.md",
+    "tutorial/Th. 2.3.md",
+    "README.md",
     "tutorial/Tutorial on Abstract Interpretation.pdf",
     "responsability-TOPLAS2021/responsibility-TOPLAS2021.pdf",
     "temporal-locig for hyper 2014.pdf",
     "Survey-On-Temporal-Logic/survey temporal logic.pdf",
     "temporal ai.pdf",
     "hyperproperties.pdf",
-    "Survey-On-Temporal-Logic/Propositional Temporal Logic (PTL).md",
-    "Survey-On-Temporal-Logic/First-Order Temporal Logic (FOTL).md",
-    "Survey-On-Temporal-Logic/Linear Temporal Logic (LTL).md",
-    "responsability-TOPLAS2021/Corollary 3.md",
-    "responsability-TOPLAS2021/Property learning process.md",
-    "Survey-On-Temporal-Logic/Temporal structure.md",
-    "responsability-TOPLAS2021/LEMMA 1.md",
-    "Survey-On-Temporal-Logic/Set of points.md",
-    "Survey-On-Temporal-Logic/Interval temporal logic.md",
-    "Survey-On-Temporal-Logic/Period structure.md",
-    "Survey-On-Temporal-Logic/Point structure.md",
     "Survey-On-Temporal-Logic",
-    "responsability-TOPLAS2021/Theorem 1.md",
-    "responsability-TOPLAS2021/Corollary 7.md",
-    "responsability-TOPLAS2021/LEMMA 3.md",
-    "responsability-TOPLAS2021/Corollary 6.md",
-    "responsability-TOPLAS2021/Corollary 5.md",
-    "responsability-TOPLAS2021/Corollary 4.md",
-    "responsability-TOPLAS2021/Pasted image 20231229145047.png",
-    "responsability-TOPLAS2021/LEMMA 2.md",
-    "responsability-TOPLAS2021/Corollary 2.md",
-    "responsability-TOPLAS2021/Corollary 1.md",
-    "tutorial/Def. 2.12.md",
-    "responsability-TOPLAS2021/Responsability.md",
-    "responsability-TOPLAS2021/Environment transfer function.md",
-    "responsability-TOPLAS2021/Transition system.md",
-    "responsability-TOPLAS2021/Transition relation.md",
     "responsability-TOPLAS2021",
     "tutorial",
     "tutorial/Pasted image 20231129164929.png"

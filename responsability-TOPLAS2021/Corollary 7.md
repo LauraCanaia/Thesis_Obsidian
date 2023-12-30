@@ -1,1 +1,2 @@
+[[responsibility-TOPLAS2021.pdf]]
 Given the semantics $[\![P]\!]^{Max}$ , the lattice $\mathcal L ^{Max}$ of system behaviors, and the cognizance function $\mathbb C$, we have $\forall \sigma \ in [\![P]\!]^{Pref} / [\![P]\!]^{Max} \ . \ \mathbb O ([\![P]\!]^{Max}, \mathcal L ^{Max}, \mathbb C, \sigma s) = \bigcup_{\sigma s \in [\![P]\!]^{Pref}}\mathbb O ([\![P]\!]^{Max}, \mathcal L ^{Max}, \mathbb C, \sigma s)$. 

@@ -1,3 +1,4 @@
+[[Tutorial on Abstract Interpretation.pdf]]
 *Narrowing*
 Definition similar to [[Def. 2.17]]
 A binary operator $\triangle : D^{\#} \times D^{\#} \rightarrow D^{\#}$ is a narrowing operator in an abstract domain $D^{\#}$ if:

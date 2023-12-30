@@ -1,2 +1,3 @@
+[[Tutorial on Abstract Interpretation.pdf]]
 *Kleenian fixpoint approximation*
 If $f \ : \ C \rightarrow C$ is continuous in a CPO $(C, \le , \vee, \bot)$ , and $g \ : \ A \rightarrow A$ is a sound - not necessarily monotonic - abstraction of $f$ in a poset abstract domain $(A, \sqsubseteq , \bot ')$ , and the sequence $\{g^i (\bot ') \ | \ i \in \mathbb{N}\}$ has a limit x in A, then it is a sound approximation of $lfp \ f$, i.e., $lfp \ f \le \gamma(x)$.

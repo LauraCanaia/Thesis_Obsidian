@@ -1,3 +1,4 @@
+[[Tutorial on Abstract Interpretation.pdf]]
 *Widening*
 A binary operator $\bigtriangledown : \ A \ \times \ A \rightarrow A$ is a widening operator in abstract domain $(A, \sqsubseteq)$ if :
 1. it computes upper bounds : $\forall x,y \in A : x \sqsubseteq x \bigtriangledown y \ and \ y \sqsubseteq x\bigtriangledown y$ ;

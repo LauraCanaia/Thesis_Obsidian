@@ -1,3 +1,4 @@
+[[survey temporal logic.pdf]]
 Assume $\langle T, < \rangle$ represent  a temporal structure. In a temporal logic the structure time is *linear* if any two points can be compared.  Namely, if they satisfy the following condition : $\forall x, y \ : \ x < y \lor x=y \lor x>y$.
 
 Another class is the *branching-time structures*, where the underlying temporal structure is branching-like. The structure can be considered a tree. A *tree* is a set of points T ordered by a binary relation < which satisfies the following requirements :

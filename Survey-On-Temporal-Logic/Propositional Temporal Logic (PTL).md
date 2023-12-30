@@ -1,3 +1,4 @@
+[[survey temporal logic.pdf]]
 Introduced after [[Linear Temporal Logic (LTL)]].
 Was introduced (over discrete time models) with X(next) and U(until) operators. PTL is decidable, and it provides a sound and complete axiomatization.
 Several examples of properties of programs expressible by means of temporal logics can be found. 

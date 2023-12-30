@@ -1,3 +1,4 @@
+[[Tutorial on Abstract Interpretation.pdf]]
 *Alternative characterization of Galois connections*
 We have a Galois connection ![[Pasted image 20231122183628.png]] if and only if the function pair $(\alpha, \gamma)$ satisfies all the following properties :
 1. $\gamma$ is monotonic;

@@ -1,3 +1,4 @@
+[[Tutorial on Abstract Interpretation.pdf]]
 *Best operator abstraction*
 Given a Galois connection $(C, \le ) \leftrightharpoons^\alpha_\beta \ (A, \sqsubseteq )$  and a concrete operator $f : C \longrightarrow C$ , the best abstraction of f is given by $\alpha \circ f\circ \gamma$ .
 
